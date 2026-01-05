@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "渉り星",
+  "base_artist": "Islet",
+  "createdAt": "2026-01-05T05:28:29.258821Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渉り星 (feat. Sando Aoi & 夕凪夜)",
+      "artist": "Islet, Sando Aoi, 夕凪夜",
+      "has_synced": false,
+      "path": "select/pl_01_渉り星_(feat._Sando_Aoi_&_夕凪夜)_Islet,_Sando_Aoi,_夕凪夜.txt"
+    }
+  ]
+}
